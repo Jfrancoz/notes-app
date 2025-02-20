@@ -18,4 +18,4 @@ It allows users to add, delete, and mark notes as completed.
 
 ## 📷 Screenshot
 
-![Notes App Screenshot](src/assets/screenshot.png)
+![Notes App Screenshot](src/assets/notes-app-preview.png)
